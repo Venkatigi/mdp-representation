@@ -1,4 +1,4 @@
-# EX-01<p align="center"> MDP REPRESENTATION </p>
+# <p align="center"> MDP REPRESENTATION </p>
 
 ## AIM:
 To represent a Markov Decision Process(MDP) problem in the following ways.
