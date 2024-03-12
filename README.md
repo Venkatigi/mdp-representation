@@ -39,35 +39,19 @@ R = { +10 for correctly exporting a ready product,
 -10 for exporting a faulty product}
 
 ### Graphical Representation:
-![20240227_052107](https://github.com/Venkatigi/mdp-representation/assets/94154252/37c69674-567c-4e6c-80af-614e0033aa76)
+![20240312_143623](https://github.com/Venkatigi/mdp-representation/assets/94154252/e201c4d7-462b-43c1-b1dc-7c48a44c2a38)
 
 ## PYTHON REPRESENTATION:
 ```
 Name: Venkatesh E
 Register Number: 212221230119
 ```
-```py
-P = {
-    0:{
-        0: [(1.0,0,0.0,True)],
-        1: [(1.0,0,0.0,True)]
-    },
-    1:{
-        0: [(1.0,0,0.0,True)],
-        1: [(1.0,2,1.0,True)]
-    },
-    2:{
-        0: [(1.0,2,0.0,True)],
-        1: [(1.0,2,0.0,True)]
-    }
-}
-```
+
+![Screenshot 2024-03-12 112409](https://github.com/Venkatigi/mdp-representation/assets/94154252/cc8b0ffa-e3a9-4055-9822-c4325708b6e4)
+
 ## OUTPUT:
-```
-{0: {0: [(1.0, 0, 0.0, True)], 1: [(1.0, 0, 0.0, True)]},
- 1: {0: [(1.0, 0, 0.0, True)], 1: [(1.0, 2, 1.0, True)]},
- 2: {0: [(1.0, 2, 0.0, True)], 1: [(1.0, 2, 0.0, True)]}}
-```
+![Screenshot 2024-03-12 112420](https://github.com/Venkatigi/mdp-representation/assets/94154252/cd6a7b51-f8c3-420a-bf0f-6be7af6d85c5)
+
 
 ## RESULT:
 Thus the given Markov Decision Process(MDP) problem is represented in the following ways.
